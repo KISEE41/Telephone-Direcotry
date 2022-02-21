@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1645373983 source:f:\project\cpp\telephone_dir\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Btree.cpp"
+	<string.h>
+
+1600835773 f:\project\cpp\telephone_dir\btree.cpp
+	<iostream>
+	<string.h>
+

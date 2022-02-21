@@ -4,7 +4,7 @@ This project demonstrates the working of **B-Tree** (The B-Tree used here is of 
 ## Insertion
 The contact information to be recorded are provided through GUI. And at the backend, it gets recorded as a node of B-Tree arranged by name in dictionary order.
 
-<img src="images/insertGUI.png" alt="Insertion page image" width="50%" />
+<img src="./images/insertGUI.png" alt="Insertion page image" width="50%" />
 
 After the save button is clicked, the information get stored as a node of Tree. The list of contacts can be observed clicking *List* button. 
 
